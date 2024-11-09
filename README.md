@@ -12,7 +12,7 @@ Markdown editor is a tool that allows users to write and preview text formatted 
 Follow these steps to set up and run the Markdown App locally:
 
 ###  Clone the Repository
-git clone https://github.com/your-username/markdown-app.git
+git clone https://github.com/Gaganydv7/Markdown-editor.git
 cd Markdown-editor
 cd backendServices
 npm install
